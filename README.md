@@ -51,7 +51,7 @@ A tabela de contatos possui os seguintes campos:
 
 ## Testando a API
 
-Utilize o Postman, Insomnia ou a aplicação [frontend]() disponível em outro repositório para testar a API. Certifique-se de ajustar as URIs de consumo se necessário.
+Utilize o Postman, Insomnia ou a aplicação [frontend](https://github.com/kaitbunny/teste-frontend-patrik) disponível em outro repositório para testar a API. Certifique-se de ajustar as URIs de consumo se necessário.
 
 ## Contato do Desenvolvedor
 
